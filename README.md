@@ -55,7 +55,7 @@ results = predict_from_csv(rf_model_sm, df_samples, features)
 print(results[['amount', 'prediction', 'probability']])
 
 ## Installation:-
-git clone https://github.com/yourusername/fraud-detection-ml.git
+git clone https://github.com/hynko431/Transaction-Fraud-Analysis.git
 cd fraud-detection-ml
 pip install -r requirements.txt
 
